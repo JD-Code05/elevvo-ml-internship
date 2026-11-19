@@ -42,8 +42,8 @@ Python · pandas · NumPy · Matplotlib · scikit-learn · XGBoost · statsmodel
 
 ## Author
 
-**John Daniel L. Ubungen**
-Machine Learning Engineer Intern · Elevvo Pathways
-Bachelor of Science in Computer Science - De La Salle University - Dasmarinas
+**John Daniel L. Ubungen**  
+Machine Learning Engineer Intern · Elevvo Pathways  
+Bachelor of Science in Computer Science - De La Salle University - Dasmarinas  
 
 GitHub: [@JD-Code05](https://github.com/JD-Code05)
