@@ -39,3 +39,10 @@ In Google Colab, upload the notebook together with its CSV files and run `!pip i
 ## Tools
 
 Python · pandas · NumPy · Matplotlib · scikit-learn · XGBoost · statsmodels · rich
+
+## Author
+
+**John Daniel L. Ubungen**
+Machine Learning Engineer Intern · Elevvo Pathways
+
+GitHub: [@JD-Code05](https://github.com/JD-Code05)
