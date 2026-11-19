@@ -2,7 +2,7 @@
 
 **Level 3** · Notebook: [`Task7_Sales_Forecasting.ipynb`](Task7_Sales_Forecasting.ipynb)
 
-![Final results](images/results.svg)
+![Final results](images/results.png)
 
 *WMAPE = total absolute error as a share of total sales (lower is better).*
 

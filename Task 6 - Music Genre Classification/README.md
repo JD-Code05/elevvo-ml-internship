@@ -2,7 +2,7 @@
 
 **Level 3** · Notebook: [`Task6_Music_Genre_Classification.ipynb`](Task6_Music_Genre_Classification.ipynb)
 
-![Final results](images/results.svg)
+![Final results](images/results.png)
 
 ## Task brief (from the Elevvo task sheet)
 

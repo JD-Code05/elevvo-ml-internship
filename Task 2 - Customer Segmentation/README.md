@@ -2,7 +2,7 @@
 
 **Level 1** · Notebook: [`Task2_Customer_Segmentation.ipynb`](Task2_Customer_Segmentation.ipynb)
 
-![Final results](images/results.svg)
+![Final results](images/results.png)
 
 ## Task brief (from the Elevvo task sheet)
 
