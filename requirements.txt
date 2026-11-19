@@ -3,6 +3,6 @@ pandas>=2.0
 matplotlib>=3.8
 scikit-learn>=1.5
 xgboost>=2.0
-imbalanced-learn>=0.12
+statsmodels>=0.14
 rich>=13.0
 jupyter
