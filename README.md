@@ -1,6 +1,6 @@
 # Elevvo Machine Learning Internship
 
-Machine learning tasks completed for the **Elevvo Pathways ML Internship** (1-month track).
+Machine learning tasks completed for the required **Elevvo Pathways Machine Learning Engineer Internship** (1-month track).
 Each task is a self-contained Jupyter notebook with data cleaning, visualization, modeling, evaluation, bonus experiments and written conclusions. Every task folder has its own README with the task requirements, a requirements checklist, the results and the conclusion.
 
 | # | Task | Level | Techniques | Key result |
